@@ -1,0 +1,32 @@
+{
+	"id": 2244,
+	"name": "Eekum Bokum",
+	"description": "Eekum Bokum was a meme that was popularized in 2020 during Inugami Korone's playthrough of Banjo-Kazooie. The art is from an animated video made by the animator 2ManySnacks",
+	"links": {},
+	"path": {
+		"161-242": [
+			[
+				-262,
+				-822
+			],
+			[
+				-263,
+				-779
+			],
+			[
+				-193,
+				-777
+			],
+			[
+				-192,
+				-822
+			]
+		]
+	},
+	"center": {
+		"161-242": [
+			-217,
+			-800
+		]
+	}
+}
